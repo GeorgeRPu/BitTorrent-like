@@ -1,0 +1,10 @@
+# VSCode
+.mypy_cache
+.vscode
+__pycache__
+
+# IntelliJ
+.idea
+*.iml
+out
+peer_*

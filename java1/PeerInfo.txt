@@ -1,0 +1,4 @@
+1001 localhost 8001 1
+1002 localhost 8002 0
+1003 localhost 8003 0
+1004 localhost 8004 0
